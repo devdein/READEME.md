@@ -10,3 +10,8 @@ Founder of [Einpunk Protocol](https://einpunk.finance)
 A Web3 Certified Senior Blockchain Full Stack Developer
 
 I'm here to help the world learn to code and do great things with data prowess, python lover and passionate about life.
+
+
+#### Github Stats
+
+[![Einpunk's Github stats](https://github-readme-stats.vercel.app/api?username=devdein)](https://github.com/anuraghazra/github-readme-stats)
